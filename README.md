@@ -120,7 +120,7 @@ Here are a few example conversations where the "advertising" is permitted:
 > B: Yeah, here it is: www.example.com but keep in mind it's still in beta
 
 ### Do not run any sort of bot on ORE.
-For purposes of this rule, a bot is defined as any program or software which uses an account (Minecraft, Discord, etc.) and/or connection (such as to IRC) to operate automatically in a way which interacts with other users.
+For purposes of this rule, a bot is defined as any program or software which uses an account (Minecraft, Discord, etc.) and/or connection (such as to IRC) to operate automatically in a way which interacts with other users. The only allowed kind of said bots are those which are run and administrated by staff, e.g.: Chad, Patrick, ...
 
 ### Do not collect or scrape ORE user data without explicit opt-in consent.
 This rule applies to any data shared on or through an ORE platform which is usually considered ephemeral or transient, including, but not limited to:
