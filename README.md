@@ -27,7 +27,7 @@ The following are not allowed on any part of ORE:
 2. [Being racist, sexist, homophobic, or otherwise hateful or discriminatory](#dont-discriminate)
 3. [Making chat ugly or hard to read](#dont-make-chat-visually-unappealing-or-less-functional) (spamming, sending obtrusive messages, etc.)
 4. [Inflammatory content](#no-intentionally-inflammatory-content) (rage bait, controversial political content, etc.)
-5. [NSFW (18+) content](#no-nsfw-18-content)
+5. [No Adult (NSFW) Content](#no-adult-nsfw-content)
 6. [Content which staff cannot reasonably or safely moderate](#content-which-staff-cannot-safely-or-reasonably-moderate-is-not-permitted)
 7. [Wasting staff's time](#avoid-wasting-staff-time-or-abusing-moderation-systems)
 8. [Ruining other members' experience on the server](#avoid-limiting-the-ability-of-others-to-enjoy-ore) (griefing, spamming, creating lag, etc.)
@@ -74,8 +74,8 @@ This especially applies to political content; it's best to avoid bringing up or 
 
 **Note**: If you see something that gets a strong emotional reaction out of you (anger, fear, shock, etc.), and you feel like sharing it, take a few minutes to fact check it first. Look it up, see if you can find other independent sources for the information, or if someone else has already done a fact check on it. It takes just a little bit of mindfulness and a couple minutes out of your day to make sure you're not spreading misinformation.
 
-### No NSFW (18+) content.
-This applies to any and all content, including, but not limited to, messages, media, skins, and builds.
+### No Adult (NSFW) Content.
+All content should be suitable for a general audience. Mild references or innuendo may be acceptable, but anything explicit, graphic, or overtly sexual is not allowed. If you’re unsure, please check with a moderator before posting. This applies to any and all content, including, but not limited to, messages, media, skins, and builds.
 
 ### Content which staff cannot safely or reasonably moderate is not permitted.
 This includes, but is not limited to:
@@ -163,5 +163,5 @@ If you have been banned, you may appeal it [here](https://discourse.openredstone
 
 Make sure to follow the provided appeal format when posting your appeal. Some bans may have a condition about how long after the ban you can appeal, so make sure to double check the ban reason.
 
-# Last Updated 13th Aug 2024
+# Last Updated 7th April 2025
 ###### Members agree not to use our services in the development/maintenance/operation of nuclear weapon systems
